@@ -1,0 +1,2 @@
+# premium-silk-warp-001-silk-warp-winding-tension-se
+Built for heritage-silk-weaving professionals who are tired of spending hours building a system before you can actually use it.  Mobile-optimized for Notion iOS and Android — works everywhere you work. Pre-built databases, views, and formula fields — ready to duplicate and use.  ## What's Included  - Silk Warp Winding &amp; Tension Setting Calculator —
